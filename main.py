@@ -6,8 +6,8 @@ import time
 # -------------------------------- CONSTANTS ----------------------------------- #
 MY_LAT = 43.653225
 MY_LONG = -79.383186
-MY_EMAIL = "nshaz9932@gmail.com"
-MY_PASSWORD = "p8Y5CnK0$#WV(g6g"
+MY_EMAIL = ""
+MY_PASSWORD = ""
 # PASSWORD AND EMAIL HAVE BEEN LEFT EMPTY FOR PRIVACY CONCERNS
 
 
